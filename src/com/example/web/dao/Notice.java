@@ -62,5 +62,5 @@ public Notice( String name, String email, String text) {
 		return "Notice [id=" + id + ", name=" + name + ", email=" + email + ", text=" + text + "]";
 	}
 	
-	abcd
+	
 }
